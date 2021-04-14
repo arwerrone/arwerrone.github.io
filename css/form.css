@@ -1,0 +1,13 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+  color: red;
+}
+
+#piroca {
+  width: 530px;
+  height: 75px;
+  margin: 0;
+  box-sizing: border-box;
+}
